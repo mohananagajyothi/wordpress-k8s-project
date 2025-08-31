@@ -1,4 +1,3 @@
-```
 # WordPress on Kubernetes (KinD)
 
 This project demonstrates how to deploy a WordPress application with a MySQL backend on a **Kubernetes cluster** using **KinD (Kubernetes in Docker)**.  
@@ -16,6 +15,7 @@ It uses Kubernetes **Deployments**, **Services**, and **PersistentVolumes** to e
 ---
 
 ## 📂 Project Structure
+
 
 ```
 
@@ -112,4 +112,3 @@ You should see MySQL (ClusterIP) and WordPress (NodePort).
 ````
 
 
-Do you want me to also add a **screenshot section** (like WordPress UI once it runs) so it looks even better on GitHub?
